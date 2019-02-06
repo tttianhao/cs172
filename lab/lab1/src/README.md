@@ -2,7 +2,7 @@
 
 Name: Tianhao Yu
 Contact: tyu14@u.rochester.edu
-Class: CSC172 Lab1
+Lab session: Tue/Thu 4:50PM
 
 ## Introduction
 isAnagram.java is a program determining if the two strings input by the user are anagram. The program compares the hashmap of the character and frequency of each word and see if the two hashmaps are the same.

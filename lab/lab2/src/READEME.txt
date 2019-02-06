@@ -1,0 +1,6 @@
+Tianhao Yu
+
+Contact: tyu14@u.rochester.edu
+
+use '''javac Lab2.java''' to compile
+and use '''java Lab2''' to run the program
